@@ -4,7 +4,7 @@ See<p align="center">
 <h1 align="center">
   <b>ᗩᒍᗩ᙭ 𝙸𝙼𝙳𝙱 𝙱𝙾𝚃 𝚅3</b>
 </h1>
-<a href="https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA">
+<a href="https://youtube.com/channel/UCqts9WhhlioK3RB9XQQzoAg">
   <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-red?logo=youtube" width="150">
 
 [![Stars](https://img.shields.io/github/stars/Aadhi000/Ajax?style=flat-square&color=orange)](https://github.com/Aadhi000/Ajax/stargazers)
@@ -50,7 +50,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Aadhi000/Ajax">
+<a href="https://heroku.com/deploy?template=https://github.com/PERIWALLUGUUDHYOG/MOVIESZILAA">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -96,5 +96,5 @@ python3 bot.py
 • /broadcast - to broadcast a message to Ajax users
 ```
 
-<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [ᴀᴀᴅʜɪ](https://telegram.dog/AboutAadhi) | [ɪɴsᴛᴀɢʀᴀᴍ](https://www.instagram.com/aadhi.xr/) | [ɢɪᴛʜᴜʙ](GitHub.com/Aadhi000)</b>                                                                                                                                                                                    
-<b>ᴄʜᴀɴɴᴇʟ ›› [ᴍᴡ ᴜᴘᴅᴀᴛᴇᴢ](https://t.me/MWUpdatez)</b>
+<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [ᴀᴀᴅʜɪ](https://telegram.dog/MOVIES_ZILAA) | [ɪɴsᴛᴀɢʀᴀᴍ](https://www.instagram.com/anuragmaheshwari_official/) | [ɢɪᴛʜᴜʙ](GitHub.com/8769ANURAG)</b>                                                                                                                                                                                    
+<b>ᴄʜᴀɴɴᴇʟ ›› [ᴍᴡ ᴜᴘᴅᴀᴛᴇᴢ](https://t.me/MOVIES_ZILAA)</b>
